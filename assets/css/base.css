@@ -39,3 +39,8 @@ main{
     border-color: #6329A2;
 }
 
+.footer-copy{
+    font-size: 1.25rem;
+    text-align: center;
+    padding: 20px 0;
+}
